@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning MySQL and how to launch a full stack application. 
 - 🤔 I’m looking for help with authorization best practices and database management
 - 📫 How to reach me: 
-  + Twitter: real_lakia
+  + Twitter: <a href='https://twitter.com/real_lakia'>real_lakia</a>
   + Email: lakiaplays@gmail.com
 - 😄 Pronouns: She/Her or They/Them
 - I'm currently looking for opportunities. I love to learn and make valuable contributions to groups with social equity goals.
